@@ -1,5 +1,5 @@
 # hypothesis_testing_with_python
-## ## IT Academy - Data Science Itinerary: data sampling
+## IT Academy - Data Science Itinerary: data sampling
 
 *S07-T01: Hypothesis Testing*
 
